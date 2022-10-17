@@ -20,12 +20,6 @@ The goals / steps of this project are the following:
 [image7]: ./examples/placeholder.png "Traffic Sign 4"
 [image8]: ./examples/placeholder.png "Traffic Sign 5"
 
-## Rubric Points
-
-Here I will consider the [rubric points](https://github.com/lfiaschi/udacity-traffic-sign-classifier/blob/master/Traffic_Sign_Classifier.ipynb)
-individually and describe how I addressed each point in my implementation. The implementation and the project writeup 
-can be found here to my [project code](https://github.com/lfiaschi/udacity-traffic-sign-classifier/blob/master/Traffic_Sign_Classifier.ipynb)
-
 ---
 
 ## Data Set Summary & Exploration
