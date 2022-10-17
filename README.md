@@ -164,9 +164,9 @@ a hundred epochs.
 
 
 My final model results were:
-* training set accuracy of 97%
-* validation set accuracy of 95%
-* test set accuracy of 93%
+* training set accuracy of 94%
+* validation set accuracy of 94%
+* test set accuracy of 91%
 
 ### Test a Model on New Images
 
