@@ -1,0 +1,6 @@
+speed_30.jpg 1
+speed_60.jpg 3
+NoPassing.jpg 9
+workroad.jpg 25
+ahead.jpg 35
+Roundabout.jpg 40 
